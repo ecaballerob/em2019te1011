@@ -1,3 +1,3 @@
 # Laboratorio de Sistemas digitales
 
-Repositorio para las practicas de la clase de laboratorio de sistemas digitales periodo EM2019
+Repositorio para las practicas de la clase de laboratorio de sistemas digitales 
